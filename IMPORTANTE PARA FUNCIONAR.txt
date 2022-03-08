@@ -1,0 +1,2 @@
+Para criar conexão do projeto com o banco, precisa baixar o drive do my sql:
+* No terminal: npm install mysql2
